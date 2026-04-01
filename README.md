@@ -1,6 +1,6 @@
 # Olá, Mundo! Eu sou o Ailton Medeiros 🧑‍💻🔥
 
-### Acadêmico de Engenharia de Software (4º Período | UNICET)
+### Acadêmico de Engenharia de Software (5º Período | UNICET)
 
 Sou um entusiasta de **Tech**, **Programação** e obssessão pela **Automação**. Minha missão é otimizar processos e construir soluções eficientes, transformando ideias em código funcional.
 
