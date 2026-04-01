@@ -2,13 +2,13 @@
 
 ### Acadêmico de Engenharia de Software (5º Período | UNICET)
 
-Sou um entusiasta de **Tech**, **Programação** e obssessão pela **Automação**. Minha missão é otimizar processos e construir soluções eficientes, transformando ideias em código funcional.
+Apaixonado por Arquitetura de Software e Automação de Sistemas. Dedico meus projetos à otimização de fluxos de trabalho e ao desenvolvimento de soluções que priorizam eficiência e performance.
 
 ---
 
 ### 🧠 Visão Técnica e Foco Acadêmico
 
-Como estudante do 4º período, estou focado na aplicação de conceitos fundamentais da Engenharia de Software:
+Como estudante do 5º período, estou focado na aplicação de conceitos fundamentais da Engenharia de Software:
 
 * **Padrões de Projeto (Design Patterns):** Aplicação de arquiteturas limpas e escaláveis.
 * **Estruturas de Dados e Algoritmos:** Otimização e performance do código.
