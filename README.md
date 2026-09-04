@@ -8,7 +8,7 @@ Apaixonado por Arquitetura de Software e Automação de Sistemas. Dedico meus pr
 
 ### 🧠 Visão Técnica e Foco Acadêmico
 
-Como estudante do 5º período, estou focado na aplicação de conceitos fundamentais da Engenharia de Software:
+Como estudante do 6º período, estou focado na aplicação de conceitos fundamentais da Engenharia de Software:
 
 * **Padrões de Projeto (Design Patterns):** Aplicação de arquiteturas limpas e escaláveis.
 * **Estruturas de Dados e Algoritmos:** Otimização e performance do código.
